@@ -24,7 +24,7 @@ pip install furl
 In the settings.ini file you can type the details about your faction, race and class, so the correct guide is loaded
 Values for section and step are updated automatically, so the guide loads where you left off
 
-```
+``` ini
 [settings]
 faction = horde
 race = troll
