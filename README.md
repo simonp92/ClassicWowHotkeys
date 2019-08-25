@@ -31,7 +31,11 @@ section = 1
 step = 1
 
 ## Starting the guide
-run the command "python LaunchGuide.py" in the project directory to start the guide
+run the command
+```
+python LaunchGuide.py
+```
+in the project directory to start the guide
 
 ## Hotkeys
 Use the hotkey "SHIFT + A" to go back in the guide
