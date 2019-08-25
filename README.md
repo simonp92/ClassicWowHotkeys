@@ -11,8 +11,11 @@ Install the Chrome Selenium driver for your version of Chrome
 https://chromedriver.chromium.org/downloads
 
 Install the following Python packages:
+
 pip install selenium
+
 pip install pynput
+
 pip install furl
 
 ## Editing the settings file
