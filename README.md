@@ -43,4 +43,5 @@ in the project directory to start the guide
 
 ## Hotkeys
 Use the hotkey "SHIFT + A" to go back in the guide
+
 Use the hotkey "SHIFT + S" to go forward in the guide
