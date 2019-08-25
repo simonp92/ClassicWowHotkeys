@@ -12,11 +12,11 @@ https://chromedriver.chromium.org/downloads
 
 Install the following Python packages:
 
-``pip install selenium
+```pip install selenium
 
 pip install pynput
 
-pip install furl``
+pip install furl```
 
 ## Editing the settings file
 In the settings.ini file you can type the details about your faction, race and class, so the correct guide is loaded
