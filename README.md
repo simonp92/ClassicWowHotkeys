@@ -12,7 +12,7 @@ https://chromedriver.chromium.org/downloads
 
 Install the following Python packages:
 
-```
+``` console
 pip install selenium
 
 pip install pynput
@@ -35,7 +35,7 @@ step = 1
 
 ## Starting the guide
 run the command
-```
+``` console
 python LaunchGuide.py
 ```
 in the project directory to start the guide
